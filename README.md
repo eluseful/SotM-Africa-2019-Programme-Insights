@@ -1,5 +1,4 @@
 :::writing{variant="standard" id="48291"}
-
 State of the Map Africa 2019: Programme Design & Community Insights
 Programme Insights Report
 
