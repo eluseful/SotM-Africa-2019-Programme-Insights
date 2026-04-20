@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-C8830A?style=flat-square)](LICENSE)
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-Africa-0D2B5E?style=flat-square)](https://openstreetmap.africa)
 
-A professional data analysis and reporting project examining the Call for Proposals (CFP) submission pipeline and programme curation decisions for the **2019 State of the Map Africa conference**, held in Grand-Bassam, Ivory Coast under the theme *Transforming Lives Through Mapping*.
+A reporting project examining the Call for Proposals (CFP) submission pipeline and programme curation decisions for the **2019 State of the Map Africa conference**, held in Grand-Bassam, Ivory Coast under the theme *Transforming Lives Through Mapping*.
 
 ---
 
